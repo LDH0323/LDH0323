@@ -12,7 +12,6 @@ Building cool things with code ⚡
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffff)]()
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/LDH0323)
 
 </div>
@@ -57,7 +56,7 @@ Goal:
 
 ---
 
-## 🌌 Featured Project
+## 🌌 Community Spotlight
 
 <div align="center">
 
@@ -65,27 +64,26 @@ Goal:
 
 # 💻 DLAB DAEGU
 
-### Daegu's Next Generation Coding Platform
+### Recommended Coding Platform
 
-**Learn • Build • Create • Grow**
+Learn • Build • Create • Grow
 
 [![Visit Website](https://img.shields.io/badge/VISIT-WEBSITE-00ffff?style=for-the-badge&logo=vercel&logoColor=black)](https://dlab-daegu.vercel.app/)
 
 </div>
 
 ```yaml
-Location: Daegu, Korea 🇰🇷
+About:
+  Coding education platform based in Daegu
 
-Mission:
-  Make coding simple and powerful
+Why I Recommend It:
+  - Beginner Friendly
+  - Practical Learning
+  - Real Coding Experience
+  - Covers Python, C, C#
 
-Focus:
-  - Python
-  - C
-  - C#
-  - Real Projects
-  - Problem Solving
-  - Creative Development
+Great for:
+  Students who want to grow real programming skills
 ```
 
 ---
@@ -94,6 +92,7 @@ Focus:
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LDH0323&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDH0323&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -109,8 +108,8 @@ Focus:
 
 <div align="center">
 
-### ⚡ Code • Learn • Build • Repeat
-
 <img src="https://komarev.com/ghpvc/?username=LDH0323&color=00ffff&style=for-the-badge"/>
+
+### ⚡ Code • Learn • Build • Repeat
 
 </div>
