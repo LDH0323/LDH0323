@@ -1,40 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:0d1117,100:00ffff&text=DLAB%20DAEGU&fontColor=00ffff&fontSize=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:0d1117,100:00ffff&text=LDH0323&fontColor=00ffff&fontSize=60&animation=fadeIn"/>
 
-# 💻 DLAB DAEGU
+# 👋 Hi there
 
-### **Daegu's Next Generation Coding Platform**
+### Software Developer from Korea 🇰🇷
 
-Learn • Build • Create • Grow
+**C • C# • Python**
 
-[![Website](https://img.shields.io/badge/VISIT-WEBSITE-00ffff?style=for-the-badge&logo=vercel&logoColor=black)](https://dlab-daegu.vercel.app/)
-[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ffff)
-](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ffff)
-](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=00ffff)
-](https://learn.microsoft.com/en-us/dotnet/csharp/)
+Building cool things with code ⚡
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/LDH0323)
 
 </div>
 
 ---
 
-# 🚀 About DLAB
+# 🚀 About Me
 
 ```yaml
-Location: Daegu, Korea 🇰🇷
+Name: LDH
+Location: Daegu, Korea
 
-Mission:
-  Make coding simple and powerful
-
-Focus:
-  - Python
+Languages:
   - C
   - C#
-  - Real Projects
+  - Python
+
+Learning:
+  - Algorithms
+  - Software Development
   - Problem Solving
-  - Creative Development
 
 Goal:
-  Build future developers
+  Build beautiful and useful software
